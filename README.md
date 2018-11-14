@@ -7,7 +7,13 @@ A new Flutter application.
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-# 参数说明
+# 帧动画参数说明
+//帧图片数组
+paths
+//播放间隔，默认50
+periodMilli
+
+# 定时器参数说明
 // 动画时长
 duration
 //动画间隔，默认1000
